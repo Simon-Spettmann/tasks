@@ -10,6 +10,7 @@ build/
 *.pbw
 local.properties
 Thumbs.db
+/appimage/
 /captures/
 /fastlane/report.xml
 /compose-metrics/
